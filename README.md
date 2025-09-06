@@ -1,4 +1,4 @@
-# Resume Analyzer (DeepKlarity Assignment Starter)
+# Resume Analyzer (DeepKlarity Assignment)
 
 A full-stack web app to upload resumes (PDF), extract data, store in PostgreSQL, and generate AI-driven feedback via Google Gemini.
 
